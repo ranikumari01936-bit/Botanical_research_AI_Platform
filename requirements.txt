@@ -1,0 +1,9 @@
+streamlit>=1.57,<2
+Pillow>=10
+requests>=2.31
+langgraph>=0.2
+python-dotenv>=1
+openai>=1
+torch>=2
+torchvision>=0.17
+reportlab>=4,<5
